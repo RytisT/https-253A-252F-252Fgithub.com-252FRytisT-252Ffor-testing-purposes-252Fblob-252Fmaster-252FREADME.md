@@ -1,2 +1,2 @@
 # for-testing-purposesss
-[TestSSH](http://testssh.test.com)
+[TESTING](ssh://testing.test.com)
